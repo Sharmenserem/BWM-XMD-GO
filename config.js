@@ -396,9 +396,10 @@ module.exports = {
     
     
     BOT_URL: process.env.BOT_URL ? process.env.BOT_URL.split(',') : [
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879883/whatsapp_uploads/e3eprzkzxhwfx7pmemr5.jpg',
+        'https://files.catbox.moe/1ra4t8.mp4',
         'https://files.catbox.moe/1ra4t8.mp4',
         'https://files.catbox.moe/io442g.mp4'
+        'https://files.catbox.moe/3bpe7x.mp3'
     ],
     
     MENU_TOP_LEFT: process.env.MENU_TOP_LEFT || "┌─❖",
