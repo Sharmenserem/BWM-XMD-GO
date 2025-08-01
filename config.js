@@ -396,7 +396,7 @@ module.exports = {
     
     
     BOT_URL: process.env.BOT_URL ? process.env.BOT_URL.split(',') : [
-        'https://files.catbox.moe/1ra4t8.mp4',
+        'https://files.catbox.moe/in0dfe.mp4',
         'https://files.catbox.moe/1ra4t8.mp4',
         'https://files.catbox.moe/io442g.mp4'
         'https://files.catbox.moe/3bpe7x.mp3'
